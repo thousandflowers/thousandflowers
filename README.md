@@ -12,13 +12,13 @@ Fine-arts student in Venice, building the tools I wish existed — mostly for ma
 - **[Forge](https://github.com/thousandflowers/Forge)** — fast, native batch file converter (images, video, audio, PDF). No dependencies, 100% Apple frameworks.
 - **[Parrot](https://github.com/thousandflowers/Parrot)** — AI grammar & style correction for every macOS app. Offline, no subscription.
 - **[Wren](https://github.com/thousandflowers/Wren)** — instant on-device inline completion & typo-fix in any app. Press Tab.
-- **[canary](https://github.com/thousandflowers/canary)** — pixel-art bird in your shell prompt that tracks coding-session fatigue. Zero deps, no API calls.
 
 ### AI / Claude tooling
 - **[eli](https://github.com/thousandflowers/eli)** — Claude Code plugin that translates technical output into plain language and learns how you think.
 - **[inaz-mcp](https://github.com/thousandflowers/inaz-mcp)** — MCP server to query Inaz payslip/attendance exports from Claude.
 
 ### CLI & utilities
+- **[canary](https://github.com/thousandflowers/canary)** — pixel-art bird in your shell prompt that tracks coding-session fatigue. Zero deps, no API calls.
 - **[qr-multi-imgs](https://github.com/thousandflowers/qr-multi-imgs)** — BubbleTea TUI that scans QR codes from a folder of images and exports results.
 - **[stockfish-continue-to-play](https://github.com/thousandflowers/stockfish-continue-to-play)** — Chrome extension: keep playing vs Stockfish after your opponent resigns on Chess.com / Lichess.
 
