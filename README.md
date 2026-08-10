@@ -1,6 +1,6 @@
 # thousand flowers
 
-Fine-arts student in Venice, building the tools I wish existed — mostly for macOS, the terminal, and AI coding workflows. Designer who codes.
+Designer who codes. Most of what's here exists because something around me kept breaking.
 
 ### Featured
 
