@@ -4,9 +4,9 @@ Fine-arts student in Venice, building the tools I wish existed — mostly for ma
 
 ### Featured
 
-**[Raccoon](https://github.com/thousandflowers/Raccoon)** · macOS companion toolkit for power users — audit, harden, and maintain your Mac from one CLI. `brew install thousandflowers/raccoon/rcc`
+**[Raccoon](https://github.com/thousandflowers/Raccoon)** · macOS companion toolkit for power users — audit, harden, and maintain your Mac from one CLI. **130 stars.** `brew install thousandflowers/raccoon/rcc`
 
-**[skillreaper](https://github.com/thousandflowers/skillreaper)** · Evidence-based pruning for your AI-agent stack — scan real transcripts, then safely prune unused skills, MCP servers, and agents.
+**[skillreaper](https://github.com/thousandflowers/skillreaper)** · Evidence-based pruning for your AI-agent stack — scan real transcripts, then safely prune unused skills, MCP servers, and agents. **Six agent platforms supported, listed on [awesome-go](https://github.com/avelino/awesome-go). First Reddit post: 29K views in a week.**
 
 ### macOS apps & tools
 - **[Forge](https://github.com/thousandflowers/Forge)** — fast, native batch file converter (images, video, audio, PDF). No dependencies, 100% Apple frameworks.
